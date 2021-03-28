@@ -1,3 +1,3 @@
-# scripts By YelazZ
+# scripts By ic4
 
 useful scripts
